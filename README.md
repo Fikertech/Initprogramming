@@ -15,7 +15,7 @@ Spaces have no function But they should be used for readability.
  The history of computing hardware covers the developments from early simple devices to aid calculation to modern day computers. Before the 20th century, most calculations were done by humans. Early mechanical tools to help humans with digital calculations, like the abacus, were referred to as calculating machines or calculators.
  
 
-##Storage
+## Storage
 
 Auto, extern, register, static are the four different storage classes in a C program. A storage class specifier in C language is used to define variables, functions, and parameters. auto is used for a local variable defined within a block or function
 
